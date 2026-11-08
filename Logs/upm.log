@@ -1,0 +1,71 @@
+[2026-11-08T10:42:15.166Z][INFO] Command-line: D:\\Unity\\6000.6.2f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe server -s 45048 --ipc-path Unity-Upm-45048 -l 2 --log-file D:\\Unity\\ColourSwitch/Logs/upm.log
+[2026-11-08T10:42:15.240Z][INFO] IPC server started (IPC path=Unity-Upm-45048).
+[2026-11-08T10:42:15.240Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-45048.
+[2026-11-08T10:42:31.139Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:42:31.227Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-08T10:42:31.712Z][INFO] config:project:get-registries --> 200 (485 ms)
+[2026-11-08T10:42:31.903Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:42:32.265Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:42:32.319Z][INFO] project:list-packages --> 200 (1179 ms)
+[2026-11-08T10:42:32.808Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:42:32.854Z][INFO] project:list-packages --> 200 (951 ms)
+[2026-11-08T10:42:54.167Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:42:54.237Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:42:54.462Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:42:54.477Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:42:54.517Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:42:54.560Z][INFO] project:list-packages --> 200 (393 ms)
+[2026-11-08T10:42:54.781Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:42:54.798Z][INFO] project:list-packages --> 200 (561 ms)
+[2026-11-08T10:42:55.076Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:42:55.077Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:42:55.109Z][INFO] project:list-packages --> 200 (647 ms)
+[2026-11-08T10:42:55.110Z][INFO] project:list-packages --> 200 (633 ms)
+[2026-11-08T10:42:57.937Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-08T10:42:57.941Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-08T10:43:05.421Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:43:05.695Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:43:05.715Z][INFO] project:list-packages --> 200 (294 ms)
+[2026-11-08T10:43:09.704Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:43:11.967Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:43:12.129Z][INFO] project:list-packages --> 200 (2425 ms)
+[2026-11-08T10:48:06.032Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:48:06.343Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:48:06.350Z][INFO] project:list-packages --> 200 (318 ms)
+[2026-11-08T10:48:06.510Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:48:06.523Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:48:06.960Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:48:06.960Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:48:06.976Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-08T10:48:06.982Z][INFO] project:list-packages --> 200 (472 ms)
+[2026-11-08T10:48:06.985Z][INFO] project:list-packages --> 200 (462 ms)
+[2026-11-08T10:48:06.986Z][INFO] config:project:get-registries --> 200 (10 ms)
+[2026-11-08T10:49:45.974Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:49:46.210Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:49:46.238Z][INFO] project:list-packages --> 200 (264 ms)
+[2026-11-08T10:49:46.403Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:49:46.441Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-08T10:49:46.750Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:49:46.822Z][INFO] project:list-packages --> 200 (419 ms)
+[2026-11-08T10:49:46.859Z][WARN] Package [com.unity.ide.vscode] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-08T10:49:46.876Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-08T10:49:46.885Z][INFO] project:list-packages --> 200 (444 ms)
+[2026-11-08T10:49:46.887Z][INFO] config:project:get-registries --> 200 (11 ms)
